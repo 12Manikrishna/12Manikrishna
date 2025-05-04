@@ -6,10 +6,10 @@
 <table>
   <tr>
     <!-- Left Side -->
+   <td>
 - 🌱 I’m currently learning **React, TypeScript**  
 - 📫 How to reach me: **gaonkarmani37@gmail.com**
-
-    </td>
+   </td>
   </tr>
 </table>
 
