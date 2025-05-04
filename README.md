@@ -4,8 +4,8 @@
 <!-- Text and Image Side-by-Side -->
 <table>
   <tr>
-  <td align="right">
-      <img src="360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" alt="12manikrishna" width="250"/>
+  <td align="center">
+      <img src="360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" alt="12manikrishna" width="500"/>
     </td>
     </tr>
   <tr>
