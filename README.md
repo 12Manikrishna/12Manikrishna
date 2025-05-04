@@ -2,13 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 <!-- Text and Image Side-by-Side -->
-<table>
-   <tr>
-  <td align="center">
-      <img src="360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" alt="12manikrishna" width="500"/>
-    </td>
-    </tr>
-</table>
+ <img src="360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" align="center" alt="12manikrishna" width="500"/>
 <table>
   <tr>
     <!-- Left Side -->
