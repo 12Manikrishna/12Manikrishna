@@ -3,14 +3,15 @@
 
 <!-- Text and Image Side-by-Side -->
 <table>
-  <tr>
+   <tr>
   <td align="center">
       <img src="360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" alt="12manikrishna" width="500"/>
     </td>
     </tr>
+</table>
+<table>
   <tr>
     <!-- Left Side -->
-    <td valign="top">
 - 🌱 I’m currently learning **React, TypeScript**  
 - 📫 How to reach me: **gaonkarmani37@gmail.com**
 
