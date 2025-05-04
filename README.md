@@ -3,7 +3,7 @@
 
 <!-- Text and Image Side-by-Side -->
  <p align="center" width="500">
- <img src="360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" align="center" alt="12manikrishna" width="500" style="border-radius: 20px;"/>
+ <img src="360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" align="center" alt="12manikrishna" width="500"/>
  </p>
 <table>
   <tr>
