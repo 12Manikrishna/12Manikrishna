@@ -2,8 +2,8 @@
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 <!-- Text and Image Side-by-Side -->
- <p align="center" width="auto">
- <img src="360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" align="center" alt="12manikrishna" width="200"/>
+ <p align="center" width="500">
+ <img src="360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" align="center" alt="12manikrishna" width="500"/>
  </p>
 <table>
   <tr>
