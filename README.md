@@ -2,13 +2,15 @@
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 <!-- Text and Image Side-by-Side -->
- <img src="360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" align="center" alt="12manikrishna" width="500"/>
+ <img src="360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" align="center" alt="12manikrishna" width="200"/>
 <table>
   <tr>
     <!-- Left Side -->
    <td>
-- 🌱 I’m currently learning **React, TypeScript**  
-- 📫 How to reach me: **gaonkarmani37@gmail.com**
+   <ul>
+   <li> 🌱 I’m currently learning <b>React, TypeScript</b></li>
+   <li> 📫 How to reach me: <b><a href="mailto://gaonkarmani37@gmail.com">gaonkarmani37@gmail.com</a></li>
+   </ul>
    </td>
   </tr>
 </table>
