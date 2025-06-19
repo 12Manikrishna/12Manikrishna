@@ -4,7 +4,7 @@
 <!-- Portfolio Link -->
 <p align="center">
   🌐 Check out my Portfolio: 
-  <a href="https://personal-portfolio-utzw-git-main-manikrishnas-projects-7671a59f.vercel.app/" target="_blank"><b>Click Here</b></a>
+  <a href="https://gaonkarmani.vercel.app/" target="_blank"><b>Click Here</b></a>
 </p>
 
 <!-- Profile Image -->
@@ -37,7 +37,7 @@
   <a href="https://www.leetcode.com/gaonkarmani37" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://personal-portfolio-utzw-git-main-manikrishnas-projects-7671a59f.vercel.app/" target="blank">
+  <a href="https://gaonkarmani.vercel.app/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="30" />
   </a>
 </p>
